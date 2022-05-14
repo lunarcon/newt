@@ -55,3 +55,6 @@ optional requirements: keyboard
 - set_window_rect(left, top, right, bottom) -> set console window rect
 - (MISC) rnd_color() -> get random color
 - (MISC) inv(r,g,b) -> invert color
+
+## Issues
+- sconsz() needs set_windows_rect() to work with windows terminal.
