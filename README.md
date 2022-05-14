@@ -6,7 +6,7 @@ NEWT - Console Manager and Manipulator Lbrary for Granular Control of the Consol
 requires: ctypes and msvcrt
 optional requirements: keyboard
 
-<br><br><hr><br>
+<hr>
 
 ## Initialization
   - Console()
