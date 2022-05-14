@@ -8,6 +8,10 @@ optional requirements: keyboard
 
 <hr>
 
+![](img/1.png)
+
+<hr>
+
 ## Initialization
   - Console()
     defaults:
@@ -58,3 +62,7 @@ optional requirements: keyboard
 
 ## Issues
 - sconsz() needs set_windows_rect() to work with windows terminal.
+
+## TODO
+- add ASCII and ANSI art generators for images
+
